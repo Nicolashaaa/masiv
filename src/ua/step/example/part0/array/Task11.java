@@ -9,6 +9,7 @@ public class Task11
 {
     public static void main(String[] args)
     {
+        /*hhjkgkljhgkljhlkjhlkjhlkj*/
         String text = "Доказано официально: коты — это жидкость!";
         String[] tokens = text.split(" ");
         for (String token : tokens)
