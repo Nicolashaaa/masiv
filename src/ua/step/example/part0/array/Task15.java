@@ -12,6 +12,7 @@ public class Task15
 {
     public static void main(String[] args)
     {
+        /*jjklnjknjknjknjknjnjk*/
         Random rnd = new Random();
         int[] mas = new int[10];
         for (int i = 0; i < mas.length; i++)
@@ -41,4 +42,5 @@ public class Task15
             System.out.printf("\nMinimum: %,d", min);
 
     }
+}
 }
