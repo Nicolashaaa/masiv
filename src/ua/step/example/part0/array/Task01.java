@@ -1,10 +1,6 @@
 package ua.step.example.part0.array;
 
-/**
- * 
- * Проблема связанная с большим объемом данных
- * 
- */
+
 public class Task01
 {
     public static void main(String[] args)
